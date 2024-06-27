@@ -6,7 +6,7 @@ public class MouseCamera : MonoBehaviour
 {
 
        public Vector2 turn;
-       public float sensitivity = .5f;
+       public float sensitivity = .5f; // Defining sensitivity so it could posible be changed by user.
 
     void Start (){
         Cursor.lockState = CursorLockMode.Locked;
