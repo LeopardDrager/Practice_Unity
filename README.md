@@ -1,0 +1,1 @@
+This is a Unity project that is currently in the works, because this allows me to continue my learning of different programing launguages. It is also to allow me to pottentially get into Windows Development apps, via the .NET infastructure.
